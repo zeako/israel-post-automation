@@ -51,8 +51,6 @@ from selenium.webdriver import *
 #                 return vendor()
 
 class DriverAdapter:
-    VENDOR_NAME = None
-
     def __init__(self, driver):
         self.driver = driver
 
