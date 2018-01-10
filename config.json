@@ -1,0 +1,8 @@
+{
+  "url": "mypost.israelpost.co.il/מעקב-משלוחים",
+  "driver": {
+    "vendor": "firefox",
+    "headless": true,
+    "executable_path": "drivers/geckodriver"
+  }
+}
